@@ -1,0 +1,12 @@
+---
+host: geek
+datacenter:
+  location: Cotia
+  router: 42
+  switch: 34
+---
+host: geek
+datacenter:
+  location: Cotia
+  router: 42
+  switch: 34
